@@ -227,6 +227,14 @@ main .skills-graph .graph-container{
     --way-spire: 53%;
 
 }
+.content:nth-child(5) .bulb{
+    --way-spire: 45%;
+
+}
+.content:nth-child(6) .bulb{
+    --way-spire: 50%;
+
+}
 .content:last-child .bulb{
     --way-spire: 67%;
     /* width: var(--way-spire); */
